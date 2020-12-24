@@ -1,0 +1,106 @@
+.body {
+
+}
+
+.HEADER {
+	color:#6D7071;
+	font-family:"cursive";
+	height:80px;
+	background-image:url("headerbackground.jpg");
+	background-repeat:no-repeat;
+	background-position:right;
+	background-size:150px 100px;
+}
+.header-logo {
+	float:left;
+	padding-bottom:40px;
+	padding-top:1px;
+	}
+.header-list {
+   float:left;
+   font-family:"cursive";
+   list-style:none;
+   font-size:25px;
+   padding-left:850px;
+   }
+   
+.Main {
+	padding-top:100px;
+	background-image:url("background.png");
+	background-repeat:no-repeat;
+	background-size:2000px 1000px;
+	font-size:30px;
+	text-align:left;
+	padding-left:400px;
+	
+}
+.button {
+padding-left:400px;}
+.fa {
+  
+  font-size: 30px;
+  width: 200px;
+  text-align: center;
+  text-decoration: none;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-linkedin {
+	
+  background: #007bb5;
+  color: white;
+}
+.fa-instagram {
+	
+  background: #125688;
+  color: white;
+}
+li {
+	font-family:"cursive";
+}
+.introduction {
+	background-image:url("introduction.jpg");
+	background-repeat:no-repeat;
+	width:1400px;
+	height:450px;
+	color:white;
+	Font-size:60px;
+}
+spam {
+	color:#E7CB79;
+}
+.footer {
+	font-size:10px;
+	float:right;
+	list-style:none;
+	
+}
+input {
+	width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+ 
+}
+textarea {
+	width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+  
+}
+.list {
+	float:left;
+	list-style:none;
+}
+.list-content {
+	list-style:none;
+	font-size:20px;
+	padding-top:40px;
+}
